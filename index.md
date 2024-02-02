@@ -12,3 +12,6 @@ Current team
 ```
 library(tidyverse)
 ```
+- [ ] Turn on GitHub Page
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
